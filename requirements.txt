@@ -1,0 +1,7 @@
+aiohttp
+ib_insync
+matplotlib
+numba
+numpy
+pandas
+python-json-logger
