@@ -5,7 +5,7 @@
 </p>
 <p align="justify">
 
-This repository as a shadow page containing the sample modules of the whole project serves the purposes of demonstrating the structure and functionality of the full development. Trade functionalities are in PROD while the backtesting and server side components remain expandible in design.
+This repository as a shadow page containing the sample modules of the whole project serves the purposes of demonstrating the structure and functionality of the full development. Trade functionalities are in place while the backtesting and server side components remain expandible in design.
 
 ## Description
 This trading bot leverages the [IB_insync](https://ib-insync.readthedocs.io/readme.html) package which offers an high-level asynchronous framework in working with the Interactive Brokers TWS API / IB Gateway for automated trading. For the time being it is designed for regular trade horizon with mid-low frequency and suitable for strategies with bounded running cycle. The framework consists of three main layers and a core running agent which control the runtime pipeline:
